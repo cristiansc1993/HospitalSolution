@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hospital1", "Hospital1", "{CB2F251C-38C2-4306-9C20-0C3DAAC53D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalSystem", "HospitalSystem\HospitalSystem.csproj", "{556F9023-700E-4798-9500-AC8030CC5BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Debug|x64.ActiveCfg = Debug|x64
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Debug|x64.Build.0 = Debug|x64
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Release|x64.ActiveCfg = Release|x64
+		{556F9023-700E-4798-9500-AC8030CC5BE7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{556F9023-700E-4798-9500-AC8030CC5BE7} = {CB2F251C-38C2-4306-9C20-0C3DAAC53D91}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B053C06-4601-4D77-9054-4BE03364735A}
+	EndGlobalSection
+EndGlobal
